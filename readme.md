@@ -18,7 +18,7 @@ Este proyecto utiliza una red neuronal para convertir temperaturas de grados Cel
     ```
 2. Navega al directorio del proyecto:
     ```bash
-    cd tu_repositorio
+    cd IA
     ```
 3. Instala las dependencias:
     ```bash
