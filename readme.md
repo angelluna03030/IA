@@ -51,4 +51,4 @@ Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENS
 
 ## Contacto
 
-Para cualquier consulta, puedes contactarme en [tu_email@example.com](mailto:tu_email@example.com).
+Para cualquier consulta, puedes contactarme en [angelstivengarcialuna@gmail.com](mailto:angelstivengarcialuna@gmail.com).
